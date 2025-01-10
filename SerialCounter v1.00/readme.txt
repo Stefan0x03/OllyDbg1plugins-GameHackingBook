@@ -1,1 +1,0 @@
-http://forum.tuts4you.com/files/file/564-serialcounter-plugin-at4re/

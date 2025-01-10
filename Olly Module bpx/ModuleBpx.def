@@ -1,3 +1,0 @@
-LIBRARY ModuleBpx
-      DESCRIPTION 'Break on Module Plugin'
-      EXPORTS

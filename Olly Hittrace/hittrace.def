@@ -1,3 +1,0 @@
-LIBRARY Hittrace
-      DESCRIPTION 'Break on Module Plugin'
-      EXPORTS

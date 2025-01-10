@@ -1,1 +1,0 @@
-Improved LoadDLL for use with OllyDbg. It uses LoadLibraryEx with DONT_RESOLVE_DLL_REFERENCES to load the dll without calling DllMain.
